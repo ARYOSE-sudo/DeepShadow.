@@ -3,5 +3,7 @@
   "has_update": true,
   "download_url": "https://github.com/ARYOSE-sudo/DeepShadow./raw/refs/heads/main/st-setup-1.8.30.exe",
   "data_version": "1",
-  "data_url": "https://raw.githubusercontent.com/ARYOSE-sudo/DeepShadow./main/data.json"
+  "data_url": "https://raw.githubusercontent.com/ARYOSE-sudo/DeepShadow./main/data.json",
+  "images_version": "1",
+  "images_url": "https://github.com/ARYOSE-sudo/DeepShadow./raw/refs/heads/main/images.zip"
 }
