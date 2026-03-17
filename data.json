@@ -1,0 +1,204 @@
+{
+  "games": [
+    {
+      "name": "Resident Evil 2",
+      "image": "images/resident evil/Resident Evil 2.jpg",
+      "fileSize": "1000",
+      "downloads": [
+        { "label": "Download", "url": "https://tunnel1.dlproxy.uk/download/EWiKZrMPaTbypxhWPBhYijrGt8Hq2Vq0g2NpxYv1er13UPcm6KB_0SymFBQ_dkJ2LTxhNdndwSHk9edhNeoMyoODI_Bh4GNyJE5ZQ--tqVaVX7ePE7ye92hLSJUzV8bRdED4Lh_QC1g6DGDbDzAB-JtABBXGwjWoi__YG1lcyFtP6csHv-6eJERALtPvVAW3Vv5UBgT8zC4nLrjlWvKuIkZECsLYoj8LBpiQGByYQFBZb1AtFoS76mGR_p34_qVLo-wkQfk4SAwdO-3Z0-vKx3h6zE29bomMetixol_xwgObPk4Jax3QmxYWfv1gh1nVO_S44rXPedDstIpHA58GEn8tT_Jzmqgf3DxYdDqeXl9Xc9ALlFYFQDsLL10TkQ8nqqLp-sbkoL4QoROZdK-bjs_CskHMeIwE8eYodUbJWOWgGnVNl6HSAVXBu1t25CjIbhqlN94OcRQPhskqRCCDFlIcTVTdmqWdQeFPc6eS9CQz-qmdm9RhLWwIORj2JaN-p8pe6z5ceGa4YhJ-QGA0YTVbBTtmTLXxt-lRmwkWjTRQ1mglaZyp5nr0rPposQCfRcJILouEI6Js5WgLr94MazEe1MKv9FLFlMyHbjGN9Wlu4YRGZ4V3k-Yv9W4vaXK8?sig=XRQ7JkrRzNZ_XAHWQim1huOVmIZeeLHATC2_xXlJt9g" , "filename": "Resident_Evil_2.zip" }
+      ]
+    },
+    {
+      "name": "Resident Evil 3",
+      "image": "images/resident evil/Resident Evil 3.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil 4 Remake",
+      "image": "images/resident evil/Resident Evil 4.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil 5",
+      "image": "images/resident evil/Resident Evil 5.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil 6",
+      "image": "images/resident evil/Resident Evil 6.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil 7 Biohazard",
+      "image": "images/resident evil/Resident Evil 7 Biohazard.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil Revelations 2",
+      "image": "images/resident evil/Resident Evil Revelations 2.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil Revelations",
+      "image": "images/resident evil/Resident Evil Revelations.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Resident Evil Village",
+      "image": "images/resident evil/Resident Evil Village.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Advanced Warfare Gold Edition",
+      "image": "images/call of duty/Call of Duty Advanced Warfare - Gold Edition.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Black Ops 2",
+      "image": "images/call of duty/Call of Duty Black Ops II.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Black Ops 3",
+      "image": "images/call of duty/Call of Duty Black Ops III.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Ghosts",
+      "image": "images/call of duty/Call of Duty Ghosts.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Modern Warfare",
+      "image": "images/call of duty/Call of Duty Infinite Warfare.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Infinite Warfare 2 Campaign Remastered",
+      "image": "images/call of duty/Call of Duty Modern Warfare 2 Campaign Remastered.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Modern Warfare 3",
+      "image": "images/call of duty/Call of Duty Modern Warfare 3 (2011).jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty Modern Warfare Remastered",
+      "image": "images/call of duty/Call of Duty Modern Warfare Remastered (2017).jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Call of Duty WWII",
+      "image": "images/call of duty/Call of Duty WWII.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed 3 Remastered",
+      "image": "images/assassin cread/Assassin's Creed III Remastered.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed 4 Black Flag",
+      "image": "images/assassin cread/Assassin's Creed IV Black Flag.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed Mirage",
+      "image": "images/assassin cread/Assassin's Creed Mirage.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed Odyssey",
+      "image": "images/assassin cread/Assassin's Creed Odyssey.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed Origins",
+      "image": "images/assassin cread/Assassin's Creed Origins.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed Syndicate",
+      "image": "images/assassin cread/Assassin's Creed Syndicate.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed Unity",
+      "image": "images/assassin cread/Assassin's Creed Unity.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Assassin's Creed Valhalla",
+      "image": "images/assassin cread/Assassin's Creed Valhalla.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Hitman Absolution",
+      "image": "images/hitman/Hitman Absolution.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Hitman World of Assassination",
+      "image": "images/hitman/HITMAN World of Assassination.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Elden Ring",
+      "image": "images/elden ring/ELDEN RING.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Elden Ring Night Reign",
+      "image": "images/elden ring/ELDEN RING.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Rise of The Tomb Raider",
+      "image": "images/tomb raider/Rise of the Tomb Raider.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "image": "images/tomb raider/Shadow of the Tomb Raider Definitive Edition.jpg",
+      "fileSize": "",
+      "downloads": []
+    },
+    {
+      "name": "Tomb Raider",
+      "image": "images/tomb raider/Tomb Raider.jpg",
+      "fileSize": "",
+      "downloads": []
+    }
+  ]
+}
