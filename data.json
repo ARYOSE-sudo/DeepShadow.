@@ -79,7 +79,7 @@
     },
     {
       "name": "Retro Rewind – Video Store Simulator",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3552140/71b5ccdf32bdf441488ddf24cd895de140c69a38/library_capsule_2x.jpg",
       "fileSize": "1.6 GB",
       "downloads": [
         {
@@ -90,7 +90,7 @@
     },
     {
       "name": "Going Medieval",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029780/library_600x900_2x.jpg",
       "fileSize": "686 MB",
       "downloads": [
         {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Grind Survivors",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3816930/6817e2e1dbfc9703541cd3eab3f8f149a561a457/library_capsule_2x.jpg",
       "fileSize": "1.9 GB",
       "downloads": [
         {
@@ -112,7 +112,7 @@
     },
     {
       "name": "Moonlighter 2: The Endless Vault",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2350790/library_600x900_2x.jpg",
       "fileSize": "3.5 GB",
       "downloads": [
         {
@@ -123,7 +123,7 @@
     },
     {
       "name": "Hollow Knight: Silksong",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/93637c34351160eaa7d7ff0cce69cb4312abb819/library_capsule_2x.jpg",
       "fileSize": "4 GB",
       "downloads": [
         {
@@ -141,19 +141,8 @@
       ]
     },
     {
-      "name": "Tobacco Shop Simulator",
-      "image": "",
-      "fileSize": "1.3 GB",
-      "downloads": [
-        {
-          "url": "https://gofile.io/d/AzdvH9",
-          "filename": "Tobacco_Shop_Simulator.zip"
-        }
-      ]
-    },
-    {
       "name": "Sengoku Dynasty",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1702010/library_600x900_2x.jpg",
       "fileSize": "10.5 GB",
       "downloads": [
         {
@@ -167,19 +156,8 @@
       ]
     },
     {
-      "name": "Turbo Dismount 2",
-      "image": "",
-      "fileSize": "982 MB",
-      "downloads": [
-        {
-          "url": "https://gofile.io/d/mdq7GB",
-          "filename": "Turbo_Dismount_2.zip"
-        }
-      ]
-    },
-    {
       "name": "Forza Horizon 5 Premium Edition",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900_2x.jpg",
       "fileSize": "171 GB",
       "downloads": [
         {
@@ -193,23 +171,8 @@
       ]
     },
     {
-      "name": "Voor De Kroon",
-      "image": "",
-      "fileSize": "21.56 GB",
-      "downloads": [
-        {
-          "url": "https://gofile.io/d/tk57ak",
-          "filename": "Voor_De_Kroon.zip"
-        },
-        {
-          "url": "https://vikingfile.com/f/oz0tU7kQgV",
-          "filename": "Voor_De_Kroon.zip"
-        }
-      ]
-    },
-    {
       "name": "Doom The Dark Ages",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017860/e670b2a17acb4bfd60dfb8fb6d4d8cb5b1d5c07c/library_600x900_2x.jpg",
       "fileSize": "82.2 GB",
       "downloads": [
         {
@@ -224,7 +187,7 @@
     },
     {
       "name": "Cyberpunk 2077",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/fc7064f4a8ee2960eb51f5872d7990d771f26d2e/library_600x900_2x.jpg",
       "fileSize": "89.1 GB",
       "downloads": [
         {
@@ -234,23 +197,8 @@
       ]
     },
     {
-      "name": "Elden Ring Deluxe Edition",
-      "image": "",
-      "fileSize": "67 GB",
-      "downloads": [
-        {
-          "url": "https://gofile.io/d/5kGJN3",
-          "filename": "Elden_Ring_Deluxe_Edition.zip"
-        },
-        {
-          "url": "https://buzzheavier.com/u4w8cunxkbrz",
-          "filename": "Elden_Ring_Deluxe_Edition.zip"
-        }
-      ]
-    },
-    {
       "name": "Baldur's Gate 3",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900_2x.jpg",
       "fileSize": "123 GB",
       "downloads": [
         {
@@ -261,7 +209,7 @@
     },
     {
       "name": "God of War Ragnarök",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900_2x.jpg",
       "fileSize": "94 GB",
       "downloads": [
         {
@@ -271,19 +219,8 @@
       ]
     },
     {
-      "name": "GTA V",
-      "image": "",
-      "fileSize": "118.5 GB",
-      "downloads": [
-        {
-          "url": "https://buzzheavier.com/y3urdxf9h7qs",
-          "filename": "GTA_V.zip"
-        }
-      ]
-    },
-    {
       "name": "Palworld",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/library_600x900_2x.jpg",
       "fileSize": "25.1 GB",
       "downloads": [
         {
@@ -298,7 +235,7 @@
     },
     {
       "name": "Hogwarts Legacy",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900_2x.jpg",
       "fileSize": "72 GB",
       "downloads": [
         {
@@ -309,7 +246,7 @@
     },
     {
       "name": "Stardew Valley",
-      "image": "",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/library_600x900_2x.jpg",
       "fileSize": "514 MB",
       "downloads": [
         {
