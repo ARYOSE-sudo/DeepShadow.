@@ -1,7 +1,7 @@
 {
-  "app_version": "1.1",
+  "app_version": "2",
   "has_update": true,
   "download_url": "https://github.com/ARYOSE-sudo/DeepShadow./raw/refs/heads/main/DeepShadow.exe",
-  "data_version": "1.1",
+  "data_version": "2",
   "data_url": "https://github.com/ARYOSE-sudo/DeepShadow./raw/refs/heads/main/data.json"
 }
