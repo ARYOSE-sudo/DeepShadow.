@@ -2996,11 +2996,22 @@
     {
       "name": "Adobe Premiere Pro 2026",
       "image": "https://appdoze.net/wp-content/uploads/2024/02/Adobe-Premiere-Pro-logo-128x128.png",
-      "fileSize": "127 GB",
+      "fileSize": "4.1 GB",
       "downloads": [
         {
           "url": "https://gofile.io/d/YN7TZE",
           "filename": "Adobe_Premiere_Pro_2026.zip"
+        }
+      ]
+    },
+    {
+      "name": "Adobe Photoshop 2026",
+      "image": "https://appdoze.net/wp-content/uploads/2024/01/Adobe-Photoshop-logo-128x128.png",
+      "fileSize": "5.1 GB",
+      "downloads": [
+        {
+          "url": "https://gofile.io/d/MaSZR3",
+          "filename": "Adobe_Photoshop_2026.zip"
         }
       ]
     }
