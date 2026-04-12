@@ -2994,24 +2994,13 @@
       ]
     },
     {
-      "name": "House Flipper",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613100/library_600x900_2x.jpg",
-      "fileSize": "11 GB",
+      "name": "Adobe Premiere Pro 2026",
+      "image": "https://appdoze.net/wp-content/uploads/2024/02/Adobe-Premiere-Pro-logo-128x128.png",
+      "fileSize": "127 GB",
       "downloads": [
         {
-          "url": "https://gofile.io/d/vKrZtk",
-          "filename": "House_Flipper.zip"
-        }
-      ]
-    },
-    {
-      "name": "House Flipper 2",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190970/library_600x900_2x.jpg",
-      "fileSize": "14 GB",
-      "downloads": [
-        {
-          "url": "https://gofile.io/d/F8GNOA",
-          "filename": "House_Flipper_2.zip"
+          "url": "https://gofile.io/d/YN7TZE",
+          "filename": "Adobe_Premiere_Pro_2026.zip"
         }
       ]
     }
